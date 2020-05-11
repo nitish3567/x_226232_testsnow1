@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_226232_testsnow1.TestScript",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "TestScript",
+  "script": {
+    "____see": "sn/TestSnow1/Script Include/active_true/x_226232_testsnow1.TestScript.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-05-11 11:23:29",
+  "sys_id": "1c7664501b7890104e06fc86cc4bcb8a",
+  "sys_mod_count": 1,
+  "sys_name": "TestScript",
+  "sys_package": "be46245c1b7490104e06fc86cc4bcbdd",
+  "sys_policy": null,
+  "sys_scope": "be46245c1b7490104e06fc86cc4bcbdd",
+  "sys_update_name": "sys_script_include_1c7664501b7890104e06fc86cc4bcb8a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-05-11 11:23:48"
+}
