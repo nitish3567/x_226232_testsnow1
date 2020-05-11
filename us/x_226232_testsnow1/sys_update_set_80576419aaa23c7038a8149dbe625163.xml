@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-05-11 11:53:17">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<application_name>TestSnow1</application_name>
+<application_scope>x_226232_testsnow1</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>TestSnow1 - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>80576419aaa23c7038a8149dbe625163</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>3d5d60941b7890104e06fc86cc4bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_ba77e0901b7890104e06fc86cc4bcbf6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>AutomatedSnowTest</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:27:56</sys_created_on><sys_id>ba77e0901b7890104e06fc86cc4bcbf6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AutomatedSnowTest</sys_name><sys_package display_value="TestSnow1" source="x_226232_testsnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_package><sys_policy/><sys_scope display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_scope><sys_update_name>sys_atf_test_ba77e0901b7890104e06fc86cc4bcbf6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:27:56</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=ba77e0901b7890104e06fc86cc4bcbf6"/></record_update>]]></payload>
+<payload_hash>-1512360361</payload_hash>
+<remote_update_set display_value="TestSnow1 - 1.0.0">3d5d60941b7890104e06fc86cc4bcbe5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>3d5d60941b7890104e06fc86cc4bcbe6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1720394dc360000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<table/>
+<target_name>AutomatedSnowTest</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>9f4d209422789010a3cea4111588c6be</update_guid>
+<update_guid_history>9f4d209422789010a3cea4111588c6be:-1512360361,a687e0906b789010715a781923a92564:-1512360361</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_de9764901b7890104e06fc86cc4bcb55</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Run Server Side Validation Script</description><display_name>Run Server Side Script</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Run Server Side Script">41de4a935332120028bc29cac2dc349a</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:28:35</sys_created_on><sys_id>de9764901b7890104e06fc86cc4bcb55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Run Server Side Script</sys_name><sys_package display_value="TestSnow1" source="x_226232_testsnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_package><sys_policy/><sys_scope display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_scope><sys_update_name>sys_atf_step_de9764901b7890104e06fc86cc4bcb55</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:28:35</sys_updated_on><table/><test display_value="AutomatedSnowTest">ba77e0901b7890104e06fc86cc4bcbf6</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=de9764901b7890104e06fc86cc4bcb55"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>de9764901b7890104e06fc86cc4bcb55</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:28:35</sys_created_on><sys_id>88b7ec501b7890104e06fc86cc4bcb26</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:28:35</sys_updated_on><value>// You can use this step to execute a variety of server-side javascript tests including&#13;
+// jasmine tests and custom assertions&#13;
+//&#13;
+//&#13;
+// Pass or fail a step: Override the step outcome to pass or fail. This is ignored &#13;
+//                      by jasmine tests&#13;
+//&#13;
+//  - Return true from the main function body to pass the step&#13;
+//  - Return false from the main function body to fail the step&#13;
+//&#13;
+//&#13;
+// outputs:       Pre-defined Step config Output variables to set on this step during &#13;
+//                execution that are available to later steps&#13;
+//&#13;
+// steps(SYS_ID): A function to retrieve Output variable data from a step that executed&#13;
+//                earlier in the test. The desired step's sys_id is required&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      // Test step 1 - add data&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      // this sample step's Step config has Output variables named table and record_id&#13;
+//      outputs.table = 'sc_task';&#13;
+//      outputs.record_id = gr.insert();&#13;
+//&#13;
+//      // Test step 2 - access added data and validate&#13;
+//      // check that the record exists (or that business logic changed it)&#13;
+//      var gr = new GlideRecord("sc_task");&#13;
+//      gr.get(steps(PREVIOUS_STEP_SYS_ID).record_id);&#13;
+//      assertEqual({name: "task gr exists", shouldbe: true, value: gr.isValidRecord()});&#13;
+//&#13;
+//&#13;
+// stepResult.setOutputMessage: Log a message to step results after step executes.&#13;
+//                              Can only be called once or will overwrite previous &#13;
+//                              message&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var gr = new GlideRecord('sc_task');&#13;
+//      gr.setValue('short_description', 'verify task can be inserted');&#13;
+//      var grSysId = gr.insert();&#13;
+//      var justCreatedGR = new GlideRecord('sc_task');&#13;
+//      if (justCreatedGR.get(grSysId)) {&#13;
+//            stepResult.setOutputMessage("Successfully inserted task record");&#13;
+//            return true; // pass the step&#13;
+//      } else { &#13;
+//            stepResult.setOutputMessage("Failed to insert task record");&#13;
+//            return false; // fail the step&#13;
+//      }&#13;
+//&#13;
+//&#13;
+// Note: describe is only supported in Global scope.&#13;
+// Use 'describe' to create a suite of test scripts and 'it' to define test expectations&#13;
+//&#13;
+//  Example jasmine test:&#13;
+//&#13;
+//      describe('my suite of script tests', function() {&#13;
+//            it('should meet expectations', function() {&#13;
+//                  expect(true).not.toBe(false);&#13;
+//            });&#13;
+//      });&#13;
+//      // make sure to uncomment jasmine.getEnv().execute(); outside the function body&#13;
+//&#13;
+//&#13;
+// assertEqual: A function used to compare that assertion.shouldbe == assertion.value;&#13;
+//              in case of failure it throws an Error and logs that the assertion by&#13;
+//              name has failed&#13;
+//&#13;
+//  Example:&#13;
+//&#13;
+//      var testAssertion = {&#13;
+//            name: "my test assertion",&#13;
+//            shouldbe: "expected value"&#13;
+//            value: "actual value",&#13;
+//      };&#13;
+//      assertEqual(testAssertion); // throws Error, logs message to test step output&#13;
+//&#13;
+(function(outputs, steps, stepResult, assertEqual) {&#13;
+    // add test script here&#13;
+	return true;&#13;
+&#13;
+})(outputs, steps, stepResult, assertEqual);&#13;
+// uncomment the next line to execute this script as a jasmine test&#13;
+//jasmine.getEnv().execute();&#13;
+</value><variable display_value="">989d9e235324220002c6435723dc3484</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>de9764901b7890104e06fc86cc4bcb55</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:28:35</sys_created_on><sys_id>c0b7ec501b7890104e06fc86cc4bcb26</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:28:35</sys_updated_on><value>3.1</value><variable display_value="">42f2564b73031300440211d8faf6a777</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>381964395</payload_hash>
+<remote_update_set display_value="TestSnow1 - 1.0.0">3d5d60941b7890104e06fc86cc4bcbe5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>795d60941b7890104e06fc86cc4bcbe6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1720394dc6f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<table/>
+<target_name>Run Server Side Script</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>134d2094d978901060e1218de35a71c1</update_guid>
+<update_guid_history>134d2094d978901060e1218de35a71c1:381964395,04b7ec500478901094f32cd511138a28:381964395</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_be46245c1b7490104e06fc86cc4bcbdd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo>e2072c501b7890104e06fc86cc4bcb34</logo><menu display_value="TestSnow">62e62c501b7890104e06fc86cc4bcb2b</menu><name>TestSnow1</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_226232_testsnow1</scope><scoped_administration>false</scoped_administration><short_description/><source>x_226232_testsnow1</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:22:30</sys_created_on><sys_id>be46245c1b7490104e06fc86cc4bcbdd</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:25:46</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_attachment action="INSERT_OR_UPDATE"><average_image_color>#ac9688</average_image_color><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/png</content_type><file_name>logo</file_name><hash>02d77975108be3d1d69f1d23e9467ae80bca08237c0fcbc57c7b44b9dcc0f431</hash><image_height>24</image_height><image_width>24</image_width><size_bytes>2129</size_bytes><size_compressed>2087</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:25:46</sys_created_on><sys_id>e2072c501b7890104e06fc86cc4bcb34</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:25:46</sys_updated_on><table_name>ZZ_YYsys_app</table_name><table_sys_id>be46245c1b7490104e06fc86cc4bcbdd</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="logo" sys_id="e2072c501b7890104e06fc86cc4bcb34">e2072c501b7890104e06fc86cc4bcb34</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:25:46</sys_created_on><sys_id>26072c501b7890104e06fc86cc4bcb34</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>ZVV7PBN6Gx9q2NKU28JsLkVks7nEXE5jw0prym3KZcrtuGzNjCSEsJFLIoUxbyFKlKMcXmUu01FuXTSXYxa5VdSR6Li8nDrn/Xze9/l8nt9z+X2f7/M8v39+bDLJQQ6kCgIAAHJER/zxTQvdUhng5imKsl7eNNsCcUdxAEBdFniVun0zlqU7UiIAALDClkoAbhRtVkhQgl08mB5HnbCnaWFI6hmanz8yOowO2BKraOymG+bPpCKiw0LDI7DR1lp/IbCb/lYapYX4C8IMsdbyOEpG2NEY/ghTpAnSSMsGhEAgrBhnArDH8fY/yjcja60gJpOORaGioqKQUcZIGiMQhbawsEAZYVAYjOEmwjDiXDiTGm0YHqH9neRvHrx/xGlGMJ0ZTAtHbMVUP1ok01pL6wfmu3xvxAwO+G+n8Igfa20uiNq6QaGRRqh/uLfot7LYY4xg/83OW/w2aCvU/+X+ngX1P8N83xT1Y1UbkBXqn2ezATnxdSkAADCTiMe5OMoR3Cg0tcE91kUXNFNvOgrvOxneCj1SBxsOvlNO9LR0lUegPU0I3M/5g1bvTB3lNxJblC7oJZrt9KyHBM/WV4Y9ImQPXVQRZsJkj+sIh/Ry7ytzLC2Kxp16YSrP09yLPnDnY8esp5oyLiyMn+dRg/oi5VJ4doMmler77p3mXNopLjB8SfYwKL2/to1TzicG9rOaoCzJZvrP0LPDh5om+fNfRJFeTGt4zVzrB1YpVNJjkHojQBG/N8GfEgu1471sHzx4bxwe/03yiZngq0PcZ9PQNZHR64dV0XOvcrvOqNd7bru6t4uhckXxLUAq+xeAypjq9XQa8fUnoYr7wkoJSmvwGl/kK9km/dncBs1Jktpjzt4W29vR5lD9qI4qvufTIyr2aUnG8+2bDCNaMqCN7X5oPaxwLqWVR5AINdjZ7iAimtnEbHipvzemFgKXIDuy/eHyktzBvWSFRimKC8qrbdZ794N0NfM/xWibLFw+HrBODOuirc+OnDP2lJICGjv6Q8RLA2beG59kmz8NGdCrjxlhMBymGfgFq7Rw6UTKMx9XU0de+nFeMsNXlNqbwcdEJmtSsq03cAORec86xKpG14l6JwtKCgWH9l0UzGUhDBQT9qSWD5NdwFU9vOsHqrdbhv8rfsxmMQSJHPOxbRyY+CbcELxgV1dy1Ef72sVDZlV3zVga905HVScAU8NOyvA1TkBWZnhTX+UXYzM1VJzFp5QabpXVkW/GxCiCnjLStGViHUF79Dm25SAfs/6g+oXex2NPOmf178k5ShQUbzfISb5zJYfvRNFPCplssG4ZSxCU6tF4KpyEGBesZqSzLQFg8Mx2nxrFrXIKRC7BxYnNPfNgim4aWmTYhJJaZm5al4lq5MhagLIxJCCHxD4PXKmpxZtyq3fR+8CidIDWUYkDGOcZdsAD9sGxGLWJ5JmTUXUNzomx8RI/nTsrVaGrm3O4/PoopuHh4VPLcepvSiQqz519/zF/P8DvNugIccCqAo4HWPiVY2IEH0TTxg7y9XPOa2sFKbdv75/mJH/JI0jSfJfWTVJSO2tbGpMsIe88gKJnE388MyItYatbryhY8eWSEBj8VdkvhawDJvuHXUbafeNBqYLObHH78bqUUd2TC8NhDVKQ/H3jI0I49YGH7+jeHWcU6EEeBLfbJDYcdyrxJViqZukFomX+rZCNbk/UiE3MyJioLWH8Ug9tTe8jzDbDBzrimg7vxjLK8O8tvR6mrk6TdeKd0dT6LmnuPA4ATo9Z7aH3+8VJd6enp53lqQsuPv1dB21p+bEWZq6nfFC4WOCfEqb9SmVXfZGOfSrE3qOMIGNFNX8aOPVHcwWuzAl6LkgvdeUW4f1VjsyyFfdwa4ZAs66lsd8KI1x7IxzFNVEm/VjOvxu8XZ4h6qxwn2gxtyEXroY/7H49W/Zipg8B/LVoYaC3xzc8Dqi2oxZ1sKsBVpaVe83drf/9o+zgLodQyFjcV/kKklOpLW5iZzEnecBPKRl/SXN7jU6C19ICqQJ2mVWt9O+CWfgT0uU/nwTsil9Z3V0zFpfgeVf2hCs6m/R2fAQj2+EcZTeywmLPme7QhJYgs27whgPsdNyKSYok5d2uFpSy9lDLzLe63I6Vn2IPs2wyYbBAw5kdXINQaRgQu7aKzjiqzn8VcpB3k1EAhU/FkXWjUwPCPjXvkbvlRrMH6yXqLSb10Rqb0+tWZXrWxVPLvZPdI9KZouk67SDTDo3azIkWE/v7xFNrP6s+Xn8+f3byt71BVckfRvVbC4MaVE3uQNtrXEMqGS5VSi5zpi/nXL3nc9jp7hVxnBnh/MLwsfWUGdq76fAaQnxJkG8zV9ARP1rm+ejCGyzWC7OvssBHxfwALc9OAw63hOOLr3j7qkE2pkKjaJBhte0NQOmowPzGNq/Ah3k5pTcauhazVDae79zlOztJHClsAV+aVaCkXYjOiujOAy3pu3Y5dAp6c6ExuDTkMRP9Q7yeavAR+pcKryVynIx3b4dnXYbusKWH53569+Kn38C6OR+OiDUeNH1ryuoPfyRTUNzt5h1i4nz3pXbTpcY2SpG6eudTqST6MqI/mEfS3l9RYhccoSare7mjwyEHghkRuuW75xB10WY32oaG9N2Ulcm/PpZhLU0jfCZ6SfzBgsFLYBXb8WZF1IH8iu5pfhqsyv7ySWf3V3iFmz46NvIfz9x3KSZzM5TP5/Y1C0rQ4mz2OEeOPc++K3rs1fn1WsHyFb+tT55IIOFrbH0T/wMxccaVUQgAAA==</data><length>2772</length><position>1</position><sys_attachment display_value="logo" sys_id="e2072c501b7890104e06fc86cc4bcb34">e2072c501b7890104e06fc86cc4bcb34</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:25:46</sys_created_on><sys_id>a6072c501b7890104e06fc86cc4bcb34</sys_id></sys_attachment_doc></record_update>]]></payload>
+<payload_hash>-383951252</payload_hash>
+<remote_update_set display_value="TestSnow1 - 1.0.0">3d5d60941b7890104e06fc86cc4bcbe5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>b55d60941b7890104e06fc86cc4bcbe6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1720394dbc60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<table/>
+<target_name>TestSnow1</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>df4d20949e7890107a02a24ef26946b9</update_guid>
+<update_guid_history>df4d20949e7890107a02a24ef26946b9:-383951252,f207ac50b77890102bef56dd2939cf46:-383951252,3e072c50047890103631e0abf67f3736:-311528021,22e62c5010789010c81a6af45b992630:524756128,cf46e050e27890106df3968dc494f8cf:910937727</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_62e62c501b7890104e06fc86cc4bcb2b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>x_226232_testsnow1_testsnow</name><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 11:25:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>62e62c501b7890104e06fc86cc4bcb2b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TestSnow</sys_name><sys_overrides/><sys_package display_value="TestSnow1" source="x_226232_testsnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_package><sys_policy/><sys_scope display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</sys_scope><sys_update_name>sys_app_application_62e62c501b7890104e06fc86cc4bcb2b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 11:25:12</sys_updated_on><title>TestSnow</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1996997123</payload_hash>
+<remote_update_set display_value="TestSnow1 - 1.0.0">3d5d60941b7890104e06fc86cc4bcbe5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>fd5d60941b7890104e06fc86cc4bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1720394dc0c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<table/>
+<target_name>TestSnow</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>534d209482789010428fd271df0a5abd</update_guid>
+<update_guid_history>534d209482789010428fd271df0a5abd:-1996997123,e2e62c501e7890109c8e7c83eb24072d:-1996997123</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="TestSnow1">be46245c1b7490104e06fc86cc4bcbdd</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_1c7664501b7890104e06fc86cc4bcb8a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_226232_testsnow1.TestScript&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;TestScript&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_226232_testsnow1.module:sys_script_include
+ */
+var TestScript = Class.create();
+TestScript.prototype = /** @lends x_226232_testsnow1.module:sys_script_include.TestScript.prototype */ {
+    /**
+     * Description
+     * 
+     * @returns {undefined}
+     */
+    initialize: function() {
+    },
+
+    type: 'TestScript'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-11 11:23:29&lt;/sys_created_on&gt;&lt;sys_id&gt;1c7664501b7890104e06fc86cc4bcb8a&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;TestScript&lt;/sys_name&gt;&lt;sys_package display_value="TestSnow1" source="x_226232_testsnow1"&gt;be46245c1b7490104e06fc86cc4bcbdd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="TestSnow1"&gt;be46245c1b7490104e06fc86cc4bcbdd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_1c7664501b7890104e06fc86cc4bcb8a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-11 11:23:48&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1056810181</payload_hash>
+<remote_update_set display_value="TestSnow1 - 1.0.0">3d5d60941b7890104e06fc86cc4bcbe5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-11 11:53:16</sys_created_on>
+<sys_id>fd5d60941b7890104e06fc86cc4bcbe6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1720394dbf00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-11 11:53:16</sys_updated_on>
+<table/>
+<target_name>TestScript</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>db4d20947a789010f17f75ec188ddcbb</update_guid>
+<update_guid_history>db4d20947a789010f17f75ec188ddcbb:-1056810181,3196a450f3789010bd296c1593d8886c:-1056810181,1986a450657890101c03103e69974666:6559380</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
